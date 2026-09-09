@@ -36,6 +36,15 @@ EHSAAN COLOUR STUDIO is built around a simple idea:
 
 From subtle tones to bold statements, colour isn't treated as an afterthought — it's the starting point.
 
+---
+
+## 🚀 THE WEBSITE
+
+The official digital home of EHSAAN COLOUR STUDIO.
+
+**Built to be simple.
+Designed to be memorable.
+Made to feel like the studio.**
 
 ---
 
@@ -91,14 +100,6 @@ The difference is in the details people notice —
 and sometimes in the details they don't.
 
 ---
-
-## 🚀 THE WEBSITE
-
-The official digital home of EHSAAN COLOUR STUDIO.
-
-**Built to be simple.
-Designed to be memorable.
-Made to feel like the studio.**
 
 <p align="center">
 
