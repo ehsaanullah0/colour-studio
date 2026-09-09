@@ -2,7 +2,7 @@
 # 🎨 EHSAAN COLOUR STUDIO
 
 <p align="center">
-  <img src="YOUR_LOGO_URL" alt="Ehsaan Colour Studio" width="140">
+<img width="200" height="200" src="https://github.com/user-attachments/assets/5e9482b0-4af5-44c6-95b4-d38c92f610f0" />
 </p>
 
 <h1 align="center">
@@ -17,7 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="https://ehsaancolour.ai.studio/">🌐 ENTER THE STUDIO</a>
+  <a href="https://ehsaancolour.ai.studio/">
+    <img src="https://img.shields.io/badge/🌐%20ENTER%20THE%20STUDIO-E7AC08?style=for-the-badge&logoColor=white&labelColor=1a1a1a" alt="Enter the Studio">
+  </a>
 </p>
 
 ---
@@ -34,37 +36,25 @@ EHSAAN COLOUR STUDIO is built around a simple idea:
 
 From subtle tones to bold statements, colour isn't treated as an afterthought — it's the starting point.
 
----
-
-## 🌈 THE COLOUR DNA
-
-```text
-                 EHSAAN COLOUR STUDIO
-
-                         ↓
-
-              ┌─────────────────────┐
-              │       COLOUR        │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │      CHARACTER      │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │     EXPRESSION      │
-              └──────────┬──────────┘
-                         ↓
-              ┌─────────────────────┐
-              │       SPACE         │
-              └─────────────────────┘
-```
-
-**Colour → Character → Expression → Space**
-
-That's the personality behind the studio.
 
 ---
+
+
+## 📸 INSIDE THE STUDIO
+
+<img width="1300" height="519" alt="brave_screenshot_ehsaancolour ai studio" src="https://github.com/user-attachments/assets/e73c92cc-d883-4aa0-9e4e-3fab95a20233" />
+
+<img width="932" height="627" alt="brave_screenshot_ehsaancolour ai studio (1)" src="https://github.com/user-attachments/assets/d9d11a09-34fe-49e4-8dae-27378274c4e7" />
+
+<img width="974" height="622" alt="brave_screenshot_ehsaancolour ai studio (2)" src="https://github.com/user-attachments/assets/8e4c6bd3-f568-4adf-aa1c-6c37b0ba200b" />
+
+<img width="949" height="577" alt="brave_screenshot_ehsaancolour ai studio (3)" src="https://github.com/user-attachments/assets/a0765644-61f6-41ac-95ad-c223b8e8d444" />
+
+<img width="1260" height="646" alt="brave_screenshot_ehsaancolour ai studio (4)" src="https://github.com/user-attachments/assets/29f9a7d4-7043-42ff-be72-65e895590400" />
+
+
+---
+
 
 ## 🖌️ WHAT WE BELIEVE
 
@@ -118,15 +108,6 @@ Made to feel like the studio.**
 
 ---
 
-## 📸 INSIDE THE STUDIO
-
-<p align="center">
-  <img src="YOUR_SCREENSHOT_1" width="48%" alt="Website Preview">
-  <img src="YOUR_SCREENSHOT_2" width="48%" alt="Website Preview">
-</p>
-
----
-
 ## 🧠 THE PHILOSOPHY
 
 ```text
@@ -174,5 +155,7 @@ A digital identity and web presence created to bring the studio's visual charact
 ---
 
 <p align="center">
+  <img width="120" height="120" alt="cropped_circle_image (2)" src="https://github.com/user-attachments/assets/9ce0b3a2-e806-4223-97a8-e7f9ac0cd422" />
+
   <sub>© EHSAAN COLOUR STUDIO • All rights reserved.</sub>
 </p>
